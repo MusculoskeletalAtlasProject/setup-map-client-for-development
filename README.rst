@@ -16,6 +16,10 @@ or (Windows)::
 
   venv_map_client_dev\Scripts\Activate
 
+Install *dulwich*::
+
+  pip install dulwich
+
 To setup a basic development simply run the setup script::
 
   python <relative-or-absolute-path-to-this-repository>/src/setup_map_client.py common
