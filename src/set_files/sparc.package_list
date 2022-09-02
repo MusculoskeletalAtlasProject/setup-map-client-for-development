@@ -1,0 +1,13 @@
+@include common.package_list
+https://github.com/OpenCMISS-Bindings/opencmiss.utils
+https://github.com/OpenCMISS-Bindings/opencmiss.maths
+https://github.com/OpenCMISS-Bindings/opencmiss.argon
+https://github.com/OpenCMISS-Bindings/opencmiss.exporter
+https://github.com/OpenCMISS-Bindings/opencmiss.zincwidgets
+https://github.com/OpenCMISS-Bindings/opencmiss.importer
+https://github.com/OpenCMISS-Bindings/opencmiss.merger
+https://github.com/ABI-Software/sparc-curation-tools
+https://github.com/ABI-Software/fieldfitter
+https://github.com/ABI-Software/scaffoldmaker
+https://github.com/ABI-Software/scaffoldfitter
+https://github.com/ABI-Software/dataembedder

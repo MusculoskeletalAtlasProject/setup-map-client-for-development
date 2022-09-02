@@ -1,0 +1,13 @@
+@include common.plugin_list
+https://github.com/ABI-Software/mapclientplugins.dataembedderstep
+https://github.com/ABI-Software/mapclientplugins.fieldfitterstep
+https://github.com/ABI-Software/mapclientplugins.geometryfitter
+https://github.com/ABI-Software/mapclientplugins.mbfxml2exconverterstep
+https://github.com/ABI-Software/mapclientplugins.scaffoldcreator
+https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep.git
+https://github.com/mapclient-plugins/mapclientplugins.convertcoordinatefieldstep.git
+https://github.com/mapclient-plugins/mapclientplugins.convertdatatozincstep.git
+https://github.com/mapclient-plugins/mapclientplugins.mapclientprovenancerecordstep
+https://github.com/mapclient-plugins/mapclientplugins.mergezincdatastep
+https://github.com/mapclient-plugins/mapclientplugins.propagatezincdatastep
+https://github.com/mapclient-plugins/mapclientplugins.sparccurationhelperstep
