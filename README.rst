@@ -25,4 +25,4 @@ To setup a basic development simply run the setup script::
   python <relative-or-absolute-path-to-this-repository>/src/setup_map_client.py common
 
 The script accepts a *set* parameter that installs plugins, workflows, and packages listed under that set.
-The available sets are: common, sparc, msk.
+The available sets are: **common**, **sparc**, **msk**.
