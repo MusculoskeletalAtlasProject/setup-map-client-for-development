@@ -1,11 +1,11 @@
 @include common.package_list
-https://github.com/OpenCMISS-Bindings/opencmiss.utils
-https://github.com/OpenCMISS-Bindings/opencmiss.maths
-https://github.com/OpenCMISS-Bindings/opencmiss.argon
-https://github.com/OpenCMISS-Bindings/opencmiss.exporter
-https://github.com/OpenCMISS-Bindings/opencmiss.zincwidgets
-https://github.com/OpenCMISS-Bindings/opencmiss.importer
-https://github.com/OpenCMISS-Bindings/opencmiss.merger
+https://github.com/cmlibs-python/cmlibs.utils
+https://github.com/cmlibs-python/cmlibs.maths
+https://github.com/cmlibs-python/cmlibs.argon
+https://github.com/cmlibs-python/cmlibs.exporter
+https://github.com/cmlibs-python/cmlibs.widgets
+https://github.com/cmlibs-python/cmlibs.importer
+https://github.com/cmlibs-python/cmlibs.merger
 https://github.com/ABI-Software/sparc-curation-tools
 https://github.com/ABI-Software/fieldfitter
 https://github.com/ABI-Software/scaffoldmaker
